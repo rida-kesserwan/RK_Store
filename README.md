@@ -1,4 +1,4 @@
-# Simple Electronics stre demo
+# Simple Electronics store demo
 
 api demo and data manipulation
 
